@@ -1,1 +1,0 @@
-# lstArab100words
